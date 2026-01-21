@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Priyanka+Panda;Data+Analyst+%7C+Risk+Analytics+Professional;JPMorgan+Chase+%26+Co.+Experience)](https://git.io/typing-svg)
 
 <h3 align="center">
-📊 Turning data into insights through analytics, automation, and visualization
+ Turning data into insights through analytics, automation, and visualization
 </h3>
 
 ---
